@@ -1,0 +1,16 @@
+
+div{
+    background-color: rgb(104, 114, 247);
+    border-radius: 1em ;
+
+}
+app-logo-ap{
+    width: 20px;
+    height: 20px;
+}
+app-social{
+    float: right;
+    margin-top: 25px;
+
+
+}
