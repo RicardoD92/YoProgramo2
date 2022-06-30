@@ -1,0 +1,24 @@
+.row {
+    padding: 20px;
+    margin: 0px;
+}
+div{
+    background-color: #54a3af;
+}
+
+h1, h3{
+    display: inline;
+}
+.exp-lab{
+    margin-left: 20px;
+    padding-left: 35px;
+}
+.titulo1{
+    margin-bottom: 25px;
+    
+
+}
+.texto1{
+    padding-top: 5px;
+}
+

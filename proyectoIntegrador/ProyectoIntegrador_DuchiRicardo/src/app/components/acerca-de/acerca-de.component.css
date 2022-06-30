@@ -1,11 +1,11 @@
 .row{
-    padding: 25px;
+
+    margin: 0px;
 }
 div{
     background-color: #77C8D5;
     text-align: center;
-    margin-right: 10p;
-
+    padding-top: 20px;
 }
 
 
@@ -16,7 +16,7 @@ div{
 #nombre{
     font-weight: bold;
     margin-top: 20%;
-    font-size: 30px;
+    font-size: 35px;
 }
 @media(min-width: 576px ){
     #fotoPerfil{
@@ -40,7 +40,6 @@ div{
     }
 }
 
-#divnombre{
-    
-    
-}
+
+
+
