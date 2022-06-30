@@ -1,0 +1,46 @@
+.row{
+    padding: 25px;
+}
+div{
+    background-color: #77C8D5;
+    text-align: center;
+    margin-right: 10p;
+
+}
+
+
+#textoSobreMi{
+    margin-top: 15px;
+}
+/*nombre Div*/
+#nombre{
+    font-weight: bold;
+    margin-top: 20%;
+    font-size: 30px;
+}
+@media(min-width: 576px ){
+    #fotoPerfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 25%;
+        box-shadow:3px 3px 3px 3px #03444e;
+        left: 2.5%;
+        top:575px;
+
+    }
+}@media(max-width: 575px ){
+    #fotoPerfil{
+        position: absolute;
+        width: 27%;
+        border-radius: 25%;
+        box-shadow:3px 3px 3px 3px #77C8D5;
+        left: 3%;
+        top:150px;
+
+    }
+}
+
+#divnombre{
+    
+    
+}
