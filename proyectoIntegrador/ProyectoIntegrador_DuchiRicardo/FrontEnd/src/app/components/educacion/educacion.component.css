@@ -1,8 +1,12 @@
+div{
+    font-size: 25px;
+    background-color: #77C8D5;
+}
 .row{
     padding-right: 15%;
     margin: 0;
     padding-left: 5%;
-    margin-bottom: 2%;
+
 }
 
 .titulo3{

@@ -1,8 +1,15 @@
 .row{
     padding-right: 15%;
     margin: 0;
-    margin-bottom: 3%;
+    
     padding-left: 10%;
+    background-image: url(../../../assets/3d-science-modern-network-communications-background.jpg) ;
+    background-repeat: initial;
+    background-position: center;
+
+    background-size: auto;
+    color: rgb(236, 10, 10);
+
 
 }
 .titulo{
